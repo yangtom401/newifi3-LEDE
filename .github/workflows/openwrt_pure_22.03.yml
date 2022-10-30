@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: OpenWrt_22.03
+name: OpenWrt_pure_22.03
 
 on:
   repository_dispatch:
