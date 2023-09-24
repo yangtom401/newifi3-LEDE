@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build newifi3 LEDE
+name: Build newifi3 ssrplus LEDE
 
 on:
   repository_dispatch:
