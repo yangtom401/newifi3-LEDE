@@ -21,3 +21,5 @@
 #echo "src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages.git;main" >> "feeds.conf.default"
 #git clone https://github.com/2512500960/zzu-minieap-openwrt.git package/minieap
 
+rm -rf target/linux/ramips
+git clone https://github.com/LQY0606/ramips.git target/linux/ramips
